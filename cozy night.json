@@ -10,7 +10,7 @@
   ],
   "semanticColors": {
     "ANDROID_RIPPLE": [
-      "#9e9e9e"
+      "#383838"
     ],
     "CHAT_BACKGROUND": [
       "#363636"
@@ -37,7 +37,7 @@
       "#363636"
     ],
     "BACKGROUND_MOBILE_SECONDARY": [
-      "#545454"
+      "#404040"
     ],
     "BACKGROUND_MODIFIER_ACCENT": [
       "#FFFFFF12"
@@ -55,7 +55,7 @@
       "#363636"
     ],
     "BACKGROUND_SECONDARY": [
-      "#545454"
+      "#404040"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#545454"
@@ -70,13 +70,13 @@
       "#000000b2"
     ],
     "BG_BASE_SECONDARY": [
-      "#545454"
+      "#404040"
     ],
     "BG_BASE_TERTIARY": [
       "#545454"
     ],
     "HOME_BACKGROUND": [
-      "#545454"
+      "#404040"
     ],
     "BORDER_FAINT": [
       "#FFFFFF12"
@@ -91,7 +91,7 @@
       "#636363"
     ],
     "CARD_SECONDARY_BG": [
-      "#595959"
+      "#6b6b6b"
     ],
     "CHANNELS_DEFAULT": [
       "#d6d6d6"
@@ -133,7 +133,7 @@
       "#545454"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": [
-      "#545454"
+      "#404040"
     ],
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
       "#545454"
@@ -169,10 +169,10 @@
       "#363636"
     ],
     "POLLS_NORMAL_FILL_HOVER": [
-      "#545454"
+      "#404040"
     ],
     "POLLS_NORMAL_IMAGE_BACKGROUND": [
-      "#545454"
+      "#404040"
     ],
     "POLLS_VICTOR_FILL": [
       "#00b36280"
@@ -266,13 +266,13 @@
     "PLUM_11": "#d6d6d6",
     "PLUM_13": "#d6d6d6",
     "PLUM_15": "#545454",
-    "PLUM_16": "#545454",
+    "PLUM_16": "#404040",
     "PLUM_17": "#363636",
     "PLUM_18": "#545454",
-    "PLUM_19": "#545454",
+    "PLUM_19": "#404040",
     "PLUM_20": "#363636",
-    "PLUM_21": "#545454",
-    "PLUM_22": "#545454",
+    "PLUM_21": "#404040",
+    "PLUM_22": "#404040",
     "PLUM_24": "#363636",
     "PLUM_25": "#363636",
     "PRIMARY_100": "#d6d6d6",
@@ -281,16 +281,16 @@
     "PRIMARY_330": "#E8E8EA",
     "PRIMARY_360": "#545454",
     "PRIMARY_400": "#b0b0b0",
-    "PRIMARY_460": "#545454",
+    "PRIMARY_460": "#404040",
     "PRIMARY_500": "#545454",
     "PRIMARY_530": "#545454",
     "PRIMARY_600": "#363636",
-    "PRIMARY_630": "#545454",
+    "PRIMARY_630": "#404040",
     "PRIMARY_645": "#545454",
-    "PRIMARY_660": "#545454",
+    "PRIMARY_660": "#404040",
     "PRIMARY_700": "#5A4D5E",
     "PRIMARY_730": "#d6d6d6",
-    "PRIMARY_800": "#595959",
+    "PRIMARY_800": "#6b6b6b",
     "GREEN_260": "#00b362",
     "GREEN_300": "#00b362",
     "GREEN_330": "#00b362",
@@ -361,7 +361,7 @@
   "plus": {
     "version": "0",
     "iconPack": "oneko-plumpy",
-    "mentionLineColor": "#ededed",
+    "mentionLineColor": "#d9d9d9",
     "customOverlays": true
   },
   "spec": 2
