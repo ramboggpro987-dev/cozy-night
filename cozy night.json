@@ -88,7 +88,7 @@
       "#FFFFFF26"
     ],
     "CARD_PRIMARY_BG": [
-      "#636363"
+      "#ffffff"
     ],
     "CARD_SECONDARY_BG": [
       "#ffffff"
@@ -100,7 +100,7 @@
       "#d6d6d6"
     ],
     "CHANNELTEXTAREA_BACKGROUND": [
-      "#121214"
+      "#ffffff"
     ],
     "EMBED_BACKGROUND": [
       "#ffffff"
@@ -154,7 +154,7 @@
       "#E8E8EA"
     ],
     "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#121214"
+      "#ffffff"
     ],
     "SPOILER_HIDDEN_BACKGROUND": [
       "#000000"
