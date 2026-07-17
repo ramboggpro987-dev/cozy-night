@@ -1,11 +1,11 @@
 {
-  "name": "cozy night",
-  "description": "cool theme ig",
-  "version": "1",
+  "name": "void",
+  "description": "idk",
+  "version": "1.0",
   "authors": [
     {
-      "name": "voidxd",
-      "id": "67"
+      "name": "rambo",
+      "id": "1350398393167515729"
     }
   ],
   "semanticColors": {
@@ -360,7 +360,7 @@
   },
   "plus": {
     "version": "0",
-    "iconPack": "rosiecord-plumpy",
+    "iconPack": "oneko-plumpy",
     "mentionLineColor": "#ededed",
     "customOverlays": true
   },
