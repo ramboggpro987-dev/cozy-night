@@ -67,7 +67,7 @@
       "#363636"
     ],
     "BG_BACKDROP": [
-      "#000000b2"
+      "#000000"
     ],
     "BG_BASE_SECONDARY": [
       "#404040"
@@ -79,10 +79,10 @@
       "#404040"
     ],
     "BORDER_FAINT": [
-      "#FFFFFF12"
+      "#FFFFFF"
     ],
     "BORDER_SUBTLE": [
-      "#FFFFFF1c"
+      "#FFFFFF"
     ],
     "BORDER_STRONG": [
       "#FFFFFF26"
