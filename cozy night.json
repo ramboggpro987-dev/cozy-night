@@ -1,11 +1,11 @@
 {
-  "name": "Eye Candy",
-  "description": "Rain port of Hanibee's Eye Candy theme",
-  "version": "2.0.1",
+  "name": "cozy night",
+  "description": "cool theme ig",
+  "version": "1",
   "authors": [
     {
-      "name": "Mudrhiod",
-      "id": "807170846497570848"
+      "name": "voidxd",
+      "id": "67"
     }
   ],
   "semanticColors": {
@@ -16,7 +16,7 @@
       "#363636"
     ],
     "BACKGROUND_ACCENT": [
-      "#ffffff"
+      "#545454"
     ],
     "BACKGROUND_FLOATING": [
       "#171717"
@@ -112,7 +112,7 @@
       "#d6d6d6"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#ffffff"
+      "#545454"
     ],
     "INTERACTIVE_HOVER": [
       "#b0b0b0"
@@ -127,7 +127,7 @@
       "rgba(114,0,0,0.1)"
     ],
     "MENTION_FOREGROUND": [
-      "#ffffff"
+      "#545454"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#545454"
@@ -240,32 +240,32 @@
     "BLUE_660": "#5a76a8",
     "BLUE_700": "#5a76a8",
     "BLACK_500": "#000000b2",
-    "BRAND_200": "#ffffff",
-    "BRAND_260": "#ffffff",
-    "BRAND_300": "#ffffff",
-    "BRAND_330": "#ffffff",
-    "BRAND_345": "#ffffff",
-    "BRAND_360": "#ffffff",
-    "BRAND_400": "#ffffff",
-    "BRAND_430": "#ffffff",
-    "BRAND_460": "#ffffff",
-    "BRAND_500": "#ffffff",
-    "BRAND_530": "#ffffff",
+    "BRAND_200": "#545454",
+    "BRAND_260": "#545454",
+    "BRAND_300": "#545454",
+    "BRAND_330": "#545454",
+    "BRAND_345": "#545454",
+    "BRAND_360": "#545454",
+    "BRAND_400": "#545454",
+    "BRAND_430": "#545454",
+    "BRAND_460": "#545454",
+    "BRAND_500": "#545454",
+    "BRAND_530": "#545454",
     "BRAND_560": "#b0b0b0",
-    "BRAND_600": "#ffffff",
-    "BRAND_630": "#ffffff",
-    "BRAND_660": "#ffffff",
-    "BRAND_700": "#ffffff",
+    "BRAND_600": "#545454",
+    "BRAND_630": "#545454",
+    "BRAND_660": "#545454",
+    "BRAND_700": "#545454",
     "BRAND_730": "#E8E8EA",
     "PLUM_1": "#E8E8EA",
-    "PLUM_3": "#ffffff",
+    "PLUM_3": "#545454",
     "PLUM_4": "#E8E8EA",
     "PLUM_6": "#E8E8EA",
     "PLUM_9": "#d6d6d6",
     "PLUM_10": "#d6d6d6",
     "PLUM_11": "#d6d6d6",
     "PLUM_13": "#d6d6d6",
-    "PLUM_15": "#ffffff",
+    "PLUM_15": "#545454",
     "PLUM_16": "#545454",
     "PLUM_17": "#363636",
     "PLUM_18": "#545454",
@@ -277,13 +277,13 @@
     "PLUM_25": "#363636",
     "PRIMARY_100": "#d6d6d6",
     "PRIMARY_200": "#E8E8EA",
-    "PRIMARY_300": "#ffffff",
+    "PRIMARY_300": "#545454",
     "PRIMARY_330": "#E8E8EA",
-    "PRIMARY_360": "#ffffff",
+    "PRIMARY_360": "#545454",
     "PRIMARY_400": "#b0b0b0",
     "PRIMARY_460": "#545454",
-    "PRIMARY_500": "#ffffff",
-    "PRIMARY_530": "#ffffff",
+    "PRIMARY_500": "#545454",
+    "PRIMARY_530": "#545454",
     "PRIMARY_600": "#363636",
     "PRIMARY_630": "#545454",
     "PRIMARY_645": "#545454",
@@ -306,9 +306,9 @@
     "GREEN_630": "#00b362",
     "GREEN_660": "#00b362",
     "GREEN_700": "#00b362",
-    "GUILD_BOOSTING_PINK": "#ffffff",
-    "GUILD_BOOSTING_PURPLE": "#ffffff",
-    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#ffffff",
+    "GUILD_BOOSTING_PINK": "#545454",
+    "GUILD_BOOSTING_PURPLE": "#545454",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#545454",
     "RED_260": "#d10000",
     "RED_300": "#d10000",
     "RED_330": "#d10000",
