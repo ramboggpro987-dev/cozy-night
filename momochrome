@@ -1,0 +1,111 @@
+{
+  "name": "Cozy Night Monochrome",
+  "description": "A clean monochrome Discord theme with a visible dark background, dark grey UI, and bright white text.",
+  "authors": [
+    {
+      "name": "ramboggpro987-dev",
+      "id": "000000000000000000"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+      "#0B0B0B"
+    ],
+    "BACKGROUND_MOD_MUTED": [
+      "#111111"
+    ],
+    "PANEL_BG": [
+      "#161616"
+    ],
+    "BACKGROUND_SURFACE_RAISED": [
+      "#1D1D1D"
+    ],
+    "BACKGROUND_BRAND": [
+      "#252525"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#1A1A1A"
+    ],
+    "INPUT_BACKGROUND_DEFAULT": [
+      "#1A1A1A"
+    ],
+    "INTERACTIVE_TEXT_DEFAULT": [
+      "#FFFFFF"
+    ],
+    "EMBED_BACKGROUND": [
+      "#151515"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#353535"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_500": "#202020",
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#FFFFFF",
+    "PRIMARY_300": "#F2F2F2",
+    "PRIMARY_360": "#D9D9D9",
+    "PRIMARY_400": "#BEBEBE",
+    "PRIMARY_600": "#1B1B1B",
+    "PRIMARY_630": "#181818",
+    "PRIMARY_660": "#151515",
+    "PRIMARY_700": "#121212",
+    "PRIMARY_800": "#0F0F0F",
+    "BLACK_500": "#000000",
+    "BRAND_260": "#666666",
+    "BRAND_360": "#555555",
+    "BRAND_500": "#444444",
+    "BRAND_560": "#3A3A3A",
+    "YELLOW_300": "#A0A0A0",
+    "GREEN_600": "#707070",
+    "RED_400": "#888888",
+    "WHITE_500": "#FFFFFF",
+    "GREEN_360": "#9A9A9A",
+    "BLUE_345": "#7F7F7F",
+    "PLUM_24": "#4A4A4A",
+    "PLUM_23": "#474747",
+    "PLUM_22": "#444444",
+    "PLUM_20": "#3F3F3F",
+    "PLUM_19": "#3C3C3C",
+    "PLUM_18": "#393939",
+    "PLUM_17": "#363636",
+    "PLUM_16": "#333333",
+    "PLUM_15": "#303030",
+    "PLUM_13": "#2A2A2A",
+    "PLUM_10": "#232323",
+    "PLUM_9": "#1E1E1E",
+    "PLUM_6": "#171717",
+    "PLUM_3": "#111111",
+    "PLUM_1": "#0B0B0B"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/ramboggpro987-dev/cozy-night/refs/heads/main/pexels-amir-selfish-2150257461-33832791.jpg",
+    "alpha": 0.75
+  },
+  "fonts": {
+    "ABCGintoNord-ExtraBold": "",
+    "ggsans-Bold": "",
+    "ggsans-BoldItalic": "",
+    "ggsans-ExtraBold": "",
+    "ggsans-ExtraBoldItalic": "",
+    "ggsans-Medium": "",
+    "ggsans-MediumItalic": "",
+    "ggsans-Normal": "",
+    "ggsans-NormalItalic": "",
+    "ggsans-Semibold": "",
+    "ggsans-SemiboldItalic": "",
+    "NotoSans-Bold": "",
+    "NotoSans-ExtraBold": "",
+    "NotoSans-Medium": "",
+    "NotoSans-Normal": "",
+    "NotoSans-NormalItalic": "",
+    "NotoSans-Semibold": "",
+    "SourceCodePro-Semibold": "",
+    "ggmono-Normal": ""
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": ""
+  },
+  "spec": 2
+}
