@@ -1,0 +1,91 @@
+{
+  "name": "Cozy Night Advanced",
+  "description": "Monochrome dark theme",
+  "authors": [
+    {
+      "name": "ramboggpro987-dev",
+      "id": "000000000000000000"
+    }
+  ],
+  "semanticColors": {
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
+      "#080808"
+    ],
+    "BACKGROUND_MOD_MUTED": [
+      "#101010"
+    ],
+    "PANEL_BG": [
+      "#151515"
+    ],
+    "BACKGROUND_SURFACE_RAISED": [
+      "#1c1c1c"
+    ],
+    "BACKGROUND_BRAND": [
+      "#2a2a2a"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#1a1a1a"
+    ],
+    "INPUT_BACKGROUND_DEFAULT": [
+      "#1a1a1a"
+    ],
+    "INTERACTIVE_TEXT_DEFAULT": [
+      "#ffffff"
+    ],
+    "EMBED_BACKGROUND": [
+      "#141414"
+    ],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
+      "#3a3a3a"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_500": "#252525",
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#FFFFFF",
+    "PRIMARY_300": "#FFFFFF",
+    "PRIMARY_360": "#FFFFFF",
+    "PRIMARY_400": "#F0F0F0",
+    "PRIMARY_600": "#1A1A1A",
+    "PRIMARY_630": "#181818",
+    "PRIMARY_660": "#161616",
+    "PRIMARY_700": "#121212",
+    "PRIMARY_800": "#0F0F0F",
+    "BLACK_500": "#000000",
+    "BRAND_260": "#6A6A6A",
+    "BRAND_360": "#5A5A5A",
+    "BRAND_500": "#4A4A4A",
+    "BRAND_560": "#3A3A3A",
+    "YELLOW_300": "#CFCFCF",
+    "GREEN_600": "#9A9A9A",
+    "RED_400": "#B0B0B0",
+    "WHITE_500": "#FFFFFF",
+    "GREEN_360": "#D0D0D0",
+    "BLUE_345": "#BFBFBF",
+    "PLUM_24": "#4a4a4a",
+    "PLUM_23": "#474747",
+    "PLUM_22": "#444444",
+    "PLUM_20": "#404040",
+    "PLUM_19": "#3c3c3c",
+    "PLUM_18": "#383838",
+    "PLUM_17": "#343434",
+    "PLUM_16": "#303030",
+    "PLUM_15": "#2c2c2c",
+    "PLUM_13": "#282828",
+    "PLUM_10": "#202020",
+    "PLUM_3": "#101010",
+    "PLUM_9": "#181818",
+    "PLUM_6": "#151515",
+    "PLUM_1": "#080808"
+  },
+  "background": {
+    "url": "https://raw.githubusercontent.com/ramboggpro987-dev/cozy-night/refs/heads/main/pexels-amir-selfish-2150257461-33832791.jpg",
+    "alpha": 0.75
+  },
+  "fonts": {},
+  "plus": {
+    "version": "0",
+    "iconpack": ""
+  },
+  "spec": 2
+}
