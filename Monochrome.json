@@ -1,5 +1,4 @@
-{
-  "name": "Monochrome",
+https "Monochrome",
   "description": "Monochrome conversion",
   "version": "2",
   "authors": [
@@ -111,7 +110,7 @@
   },
   "spec": 2,
   "background": {
-    "url": "https://raw.githubusercontent.com/ramboggpro987-dev/cozy-night/refs/heads/main/pexels-amir-selfish-2150257461-33832791.jpg",
+    "url": "https://raw.githubusercontent.com/ramboggpro987-dev/cozy-night/refs/heads/main/Untitled11_20260724210220.png",
     "alpha": 0.65
   }
 }
