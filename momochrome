@@ -1,6 +1,6 @@
 {
-  "name": "Cozy Night Monochrome",
-  "description": "A clean monochrome Discord theme with a visible dark background, dark grey UI, and bright white text.",
+  "name": "Cozy Night Monochrome White",
+  "description": "Dark grey monochrome theme with bright white text and a visible background image.",
   "authors": [
     {
       "name": "ramboggpro987-dev",
@@ -8,101 +8,76 @@
     }
   ],
   "semanticColors": {
-    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": [
-      "#0B0B0B"
-    ],
-    "BACKGROUND_MOD_MUTED": [
-      "#111111"
-    ],
-    "PANEL_BG": [
-      "#161616"
-    ],
-    "BACKGROUND_SURFACE_RAISED": [
-      "#1D1D1D"
-    ],
-    "BACKGROUND_BRAND": [
-      "#252525"
-    ],
-    "REDESIGN_CHAT_INPUT_BACKGROUND": [
-      "#1A1A1A"
-    ],
-    "INPUT_BACKGROUND_DEFAULT": [
-      "#1A1A1A"
-    ],
-    "INTERACTIVE_TEXT_DEFAULT": [
-      "#FFFFFF"
-    ],
-    "EMBED_BACKGROUND": [
-      "#151515"
-    ],
-    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": [
-      "#353535"
-    ]
+    "ANDROID_NAVIGATION_SCRIM_BACKGROUND": ["#080808"],
+    "BACKGROUND_MOD_MUTED": ["#101010"],
+    "PANEL_BG": ["#151515"],
+    "BACKGROUND_SURFACE_RAISED": ["#1C1C1C"],
+    "BACKGROUND_BRAND": ["#242424"],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#1A1A1A"],
+    "INPUT_BACKGROUND_DEFAULT": ["#1A1A1A"],
+    "EMBED_BACKGROUND": ["#141414"],
+    "REDESIGN_BUTTON_TERTIARY_BACKGROUND": ["#353535"],
+
+    "INTERACTIVE_TEXT_DEFAULT": ["#FFFFFF"],
+    "TEXT_NORMAL": ["#FFFFFF"],
+    "TEXT_PRIMARY": ["#FFFFFF"],
+    "TEXT_MUTED": ["#D5D5D5"],
+    "HEADER_PRIMARY": ["#FFFFFF"],
+    "HEADER_SECONDARY": ["#DADADA"],
+    "CHANNELTEXTAREA_PLACEHOLDER": ["#B5B5B5"],
+    "TEXT_LINK": ["#FFFFFF"],
+    "TEXT_POSITIVE": ["#FFFFFF"],
+    "TEXT_WARNING": ["#FFFFFF"],
+    "TEXT_DANGER": ["#FFFFFF"]
   },
   "rawColors": {
-    "PRIMARY_500": "#202020",
     "PRIMARY_100": "#FFFFFF",
     "PRIMARY_200": "#FFFFFF",
-    "PRIMARY_300": "#F2F2F2",
-    "PRIMARY_360": "#D9D9D9",
-    "PRIMARY_400": "#BEBEBE",
-    "PRIMARY_600": "#1B1B1B",
-    "PRIMARY_630": "#181818",
-    "PRIMARY_660": "#151515",
-    "PRIMARY_700": "#121212",
-    "PRIMARY_800": "#0F0F0F",
+    "PRIMARY_300": "#FFFFFF",
+    "PRIMARY_360": "#FFFFFF",
+    "PRIMARY_400": "#FFFFFF",
+    "PRIMARY_500": "#2A2A2A",
+    "PRIMARY_600": "#1E1E1E",
+    "PRIMARY_630": "#1A1A1A",
+    "PRIMARY_660": "#171717",
+    "PRIMARY_700": "#141414",
+    "PRIMARY_800": "#101010",
+
     "BLACK_500": "#000000",
-    "BRAND_260": "#666666",
-    "BRAND_360": "#555555",
-    "BRAND_500": "#444444",
-    "BRAND_560": "#3A3A3A",
-    "YELLOW_300": "#A0A0A0",
-    "GREEN_600": "#707070",
-    "RED_400": "#888888",
     "WHITE_500": "#FFFFFF",
-    "GREEN_360": "#9A9A9A",
-    "BLUE_345": "#7F7F7F",
-    "PLUM_24": "#4A4A4A",
-    "PLUM_23": "#474747",
+
+    "BRAND_260": "#6A6A6A",
+    "BRAND_360": "#5C5C5C",
+    "BRAND_500": "#4E4E4E",
+    "BRAND_560": "#424242",
+
+    "YELLOW_300": "#C8C8C8",
+    "GREEN_600": "#8A8A8A",
+    "GREEN_360": "#A8A8A8",
+    "RED_400": "#B0B0B0",
+    "BLUE_345": "#9A9A9A",
+
+    "PLUM_24": "#4C4C4C",
+    "PLUM_23": "#484848",
     "PLUM_22": "#444444",
-    "PLUM_20": "#3F3F3F",
+    "PLUM_20": "#404040",
     "PLUM_19": "#3C3C3C",
-    "PLUM_18": "#393939",
-    "PLUM_17": "#363636",
-    "PLUM_16": "#333333",
-    "PLUM_15": "#303030",
-    "PLUM_13": "#2A2A2A",
-    "PLUM_10": "#232323",
-    "PLUM_9": "#1E1E1E",
-    "PLUM_6": "#171717",
-    "PLUM_3": "#111111",
-    "PLUM_1": "#0B0B0B"
+    "PLUM_18": "#383838",
+    "PLUM_17": "#343434",
+    "PLUM_16": "#303030",
+    "PLUM_15": "#2C2C2C",
+    "PLUM_13": "#282828",
+    "PLUM_10": "#202020",
+    "PLUM_9": "#1A1A1A",
+    "PLUM_6": "#151515",
+    "PLUM_3": "#101010",
+    "PLUM_1": "#080808"
   },
   "background": {
     "url": "https://raw.githubusercontent.com/ramboggpro987-dev/cozy-night/refs/heads/main/pexels-amir-selfish-2150257461-33832791.jpg",
     "alpha": 0.75
   },
-  "fonts": {
-    "ABCGintoNord-ExtraBold": "",
-    "ggsans-Bold": "",
-    "ggsans-BoldItalic": "",
-    "ggsans-ExtraBold": "",
-    "ggsans-ExtraBoldItalic": "",
-    "ggsans-Medium": "",
-    "ggsans-MediumItalic": "",
-    "ggsans-Normal": "",
-    "ggsans-NormalItalic": "",
-    "ggsans-Semibold": "",
-    "ggsans-SemiboldItalic": "",
-    "NotoSans-Bold": "",
-    "NotoSans-ExtraBold": "",
-    "NotoSans-Medium": "",
-    "NotoSans-Normal": "",
-    "NotoSans-NormalItalic": "",
-    "NotoSans-Semibold": "",
-    "SourceCodePro-Semibold": "",
-    "ggmono-Normal": ""
-  },
+  "fonts": {},
   "plus": {
     "version": "0",
     "iconpack": ""
