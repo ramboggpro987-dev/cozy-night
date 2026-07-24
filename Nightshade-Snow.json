@@ -1,0 +1,89 @@
+{
+  "name": "Nightshade Snow",
+  "description": "Light monochrome variant",
+  "version": "2",
+  "authors": [
+    {
+      "name": "Fizz (edited by ChatGPT)",
+      "id": "629700611994157057"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#FFFFFF"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#F6F6F6"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#EFEFEF"
+    ],
+    "CHAT_BACKGROUND": [
+      "#FFFFFF"
+    ],
+    "HEADER_PRIMARY": [
+      "#000000"
+    ],
+    "HEADER_SECONDARY": [
+      "#333333"
+    ],
+    "TEXT_NORMAL": [
+      "#000000"
+    ],
+    "TEXT_PRIMARY": [
+      "#000000"
+    ],
+    "TEXT_SECONDARY": [
+      "#444444"
+    ],
+    "TEXT_MUTED": [
+      "#666666"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#000000"
+    ],
+    "CHANNEL_ICON": [
+      "#444444"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#000000"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#666666"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#000000"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#D0D0D0"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#F2F2F2"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#F2F2F2"
+    ],
+    "EMBED_BACKGROUND": [
+      "#FAFAFA"
+    ]
+  },
+  "rawColors": {
+    "BLACK_500": "#000000",
+    "WHITE_500": "#FFFFFF",
+    "PRIMARY_100": "#000000",
+    "PRIMARY_200": "#111111",
+    "PRIMARY_300": "#222222",
+    "PRIMARY_400": "#444444",
+    "PRIMARY_500": "#DDDDDD",
+    "PRIMARY_600": "#EEEEEE",
+    "PRIMARY_630": "#F4F4F4",
+    "PRIMARY_700": "#FAFAFA",
+    "PRIMARY_800": "#FFFFFF"
+  },
+  "plus": {
+    "version": 0,
+    "customOverlays": true,
+    "iconpack": "rosiecord-plumpy"
+  },
+  "spec": 2
+}
