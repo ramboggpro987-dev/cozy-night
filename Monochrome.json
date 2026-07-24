@@ -1,0 +1,117 @@
+{
+  "name": "Monochrome",
+  "description": "Monochrome conversion",
+  "version": "2",
+  "authors": [
+    {
+      "name": "void.star"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#090909"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#101010"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#070707"
+    ],
+    "CHAT_BACKGROUND": [
+      "#090909"
+    ],
+    "HEADER_PRIMARY": [
+      "#FFFFFF"
+    ],
+    "HEADER_SECONDARY": [
+      "#D8D8D8"
+    ],
+    "TEXT_NORMAL": [
+      "#FFFFFF"
+    ],
+    "TEXT_PRIMARY": [
+      "#FFFFFF"
+    ],
+    "TEXT_SECONDARY": [
+      "#D0D0D0"
+    ],
+    "TEXT_MUTED": [
+      "#AFAFAF"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#FFFFFF"
+    ],
+    "CHANNEL_ICON": [
+      "#CFCFCF"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#B0B0B0"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#FFFFFF"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#D0D0D0"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#666666"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#151515"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#151515"
+    ],
+    "EMBED_BACKGROUND": [
+      "#121212"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#2A2A2A"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#202020"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#2A2A2A"
+    ]
+  },
+  "rawColors": {
+    "BLACK_500": "#000000",
+    "WHITE_500": "#FFFFFF",
+    "WHITE_630": "#D8D8D8",
+    "PRIMARY_100": "#FFFFFF",
+    "PRIMARY_200": "#F2F2F2",
+    "PRIMARY_300": "#D8D8D8",
+    "PRIMARY_400": "#BEBEBE",
+    "PRIMARY_500": "#666666",
+    "PRIMARY_600": "#0f0f10",
+    "PRIMARY_630": "#121214",
+    "PRIMARY_645": "#101012",
+    "PRIMARY_660": "#121214",
+    "PRIMARY_700": "#121214",
+    "PRIMARY_730": "#D8D8D8",
+    "PRIMARY_800": "#101012",
+    "BRAND_500": "#666666",
+    "BRAND_560": "#4A4A4A",
+    "PLUM_1": "#FFFFFF",
+    "PLUM_3": "#666666",
+    "PLUM_9": "#D8D8D8",
+    "PLUM_16": "#121214",
+    "PLUM_17": "#0f0f10",
+    "PLUM_18": "#101012",
+    "PLUM_24": "#0f0f10"
+  },
+  "plus": {
+    "version": 0,
+    "customOverlays": true,
+    "iconpack": "rosiecord-plumpy"
+  },
+  "spec": 2,
+  "background": {
+    "url": "https://raw.githubusercontent.com/ramboggpro987-dev/cozy-night/refs/heads/main/pexels-amir-selfish-2150257461-33832791.jpg",
+    "alpha": 0.65
+  }
+}
