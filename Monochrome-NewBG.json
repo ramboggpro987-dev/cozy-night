@@ -1,0 +1,36 @@
+{
+  "name": "Monochrome",
+  "authors": [
+    {
+      "name": "void.star"
+    }
+  ],
+  "background": {
+    "url": "https://raw.githubusercontent.com/ramboggpro987-dev/cozy-night/refs/heads/main/Untitled11_20260724210220.png",
+    "alpha": 0.8
+  },
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": [
+      "#090909"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#101010"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#070707"
+    ],
+    "CHAT_BACKGROUND": [
+      "#090909"
+    ],
+    "TEXT_NORMAL": [
+      "#FFFFFF"
+    ],
+    "TEXT_PRIMARY": [
+      "#FFFFFF"
+    ]
+  },
+  "plus": {
+    "version": 0
+  },
+  "spec": 2
+}
