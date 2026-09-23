@@ -302,7 +302,7 @@
   },
   "plus": {
     "version": 0,
-    "iconPack": "none",
+    "iconPack": "Iconsax-Bulk",
     "mentionLineColor": "#8c8c8c",
     "customOverlays": true,
     "icons": {
