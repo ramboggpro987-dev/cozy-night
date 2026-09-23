@@ -299,6 +299,11 @@
     "GUILD_BOOSTING_PINK": "#8c8c8c",
     "GUILD_BOOSTING_PURPLE": "#767676",
     "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#8c8c8c"
+    
+  },"background": {
+    "blur": 0,
+    "url": "https://github.com/ramboggpro987-dev/aliucord-theme-pure-black/raw/refs/heads/main/hi.jpeg",
+    "alpha": 0.80
   },
   "plus": {
     "version": 0,
