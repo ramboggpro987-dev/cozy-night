@@ -301,9 +301,9 @@
     "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#8c8c8c"
     
   },"background": {
-    "blur": 7.5,
-    "url": "https://github.com/ramboggpro987-dev/aliucord-theme-pure-black/raw/refs/heads/main/hi.jpeg",
-    "alpha": 0.80
+    "blur": 0,
+    "url": "https://github.com/ramboggpro987-dev/aliucord-theme-pure-black/raw/refs/heads/main/Untitled18_20260923165931.png",
+    "alpha": 1,
   },
   "plus": {
     "version": 0,
